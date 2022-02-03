@@ -27,7 +27,7 @@
 <h4 id="autor">Autor</h4>
 
 Luiz Guilherme 
-Feito com heart por Luiz Guilherme 👋🏽 Entre em contato!
+Feito com por Luiz Guilherme 👋🏽 Entre em contato!
 
 ![Gmail Badge](https://img.shields.io/badge/-zanelallopes9977@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zanelallopes9977@gmail.com)
 
