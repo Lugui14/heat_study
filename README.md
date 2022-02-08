@@ -9,7 +9,9 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#licenc-a">Licença</a> • 
+<a href="#run">Como Rodar</a> • 
  <a href="#autor">Autor</a>
+	
 </p>
 
 <h4 id="objetivo">Objetivo</h4>
@@ -23,6 +25,14 @@
 
 <h4>Licença</h4>
 <p id="licenc-a" >MIT</p>
+
+<h4>Como Rodar</h4>
+<p id="run" >Execute os comandos abaixo:</p>
+```
+$ yarn
+$ prisma migrate dev
+$ yarn dev
+```
 
 <h4 id="autor">Autor</h4>
 
