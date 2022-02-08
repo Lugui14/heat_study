@@ -30,6 +30,7 @@
 <p id="run" >Execute os comandos abaixo:</p>
 ```bash
 $ yarn 
+
 $ prisma migrate dev
 ```
 <br>
