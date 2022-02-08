@@ -30,14 +30,10 @@
 <p id="run" >Execute os comandos abaixo:</p>
 ```bash
 $ yarn 
-
 $ prisma migrate dev
-```
-<br>
-<p> Crie um arquivo .env e defina as variáveis do githubOAuth </p> 
-<br>
 
-```bash
+##Crie um arquivo .env e defina as variáveis do githubOAuth  
+
 $ yarn dev
 ```
 <br>
