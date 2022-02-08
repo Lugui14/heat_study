@@ -28,13 +28,18 @@
 
 <h4>Como Rodar</h4>
 <p id="run" >Execute os comandos abaixo:</p>
-{% filename %}yarn{% endfilename %} <br>
-{% filename %}prisma migrate dev{% endfilename %} <br>
+```bash
+$ yarn 
+$ prisma migrate dev
+```
+<br>
+<p> Crie um arquivo .env e defina as variáveis do githubOAuth </p> 
+<br>
 
-<p> Crie um arquivo .env e defina as variáveis do githubOAuth </p> <br>
-
-{% filename %}yarn dev{% endfilename %} <br>
-
+```bash
+$ yarn dev
+```
+<br>
 <h4 id="autor">Autor</h4>
 
 Luiz Guilherme <br>
