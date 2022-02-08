@@ -28,7 +28,7 @@
 
 <h4>Como Rodar</h4>
 <p id="run" >Execute os comandos abaixo:</p>
-```bash
+```
 $ yarn 
 $ prisma migrate dev
 
